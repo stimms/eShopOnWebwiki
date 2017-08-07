@@ -50,7 +50,9 @@ If you are not seeing data initially in the store, the most likely reason is tha
 
 ![image](https://user-images.githubusercontent.com/782127/29046500-bdd6428e-7b95-11e7-9549-e2b2b728c062.png)
 
+At this point, you should be able to refresh the site and see it loaded with data (if not, publish once more from Visual Studio).
 
+![image](https://user-images.githubusercontent.com/782127/29046690-9530671e-7b96-11e7-9425-bd2223ddbe02.png)
 
 
 
