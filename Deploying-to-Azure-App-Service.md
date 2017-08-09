@@ -15,3 +15,16 @@ Leave the option to `Create New` selected. Click Publish.
 Create a new Resource Group, if desired. You can specify a Free App Service Plan, if desired, as shown.
 
 ![image](https://user-images.githubusercontent.com/782127/29099600-5c4876e2-7c74-11e7-9174-5ce83a079d6e.png)
+
+## 5. Click Create.
+The Publish profile will be saved and the eShopOnWeb sample will be published to the Azure App Service.
+
+![image](https://user-images.githubusercontent.com/782127/29100222-4fcef162-7c78-11e7-9c3b-a2513327b83b.png)
+
+Once the publish process has completed, your deployed app will launch in your browser.
+
+![image](https://user-images.githubusercontent.com/782127/29100294-a869fa56-7c78-11e7-8b01-f0a0ad4e1c1f.png)
+
+### Notes
+
+- You may need to ensure you have the [Bundler and Minifier extension](https://docs.microsoft.com/en-us/aspnet/core/client-side/bundling-and-minification) installed, otherwise your CSS may not be minified and referenced correctly in the deployed version of the application. Alternately, you can modify `_Layout.cshtml` to use `app.css` instead of `app.css.min` in Production.
