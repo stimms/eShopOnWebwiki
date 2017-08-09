@@ -27,4 +27,4 @@ Once the publish process has completed, your deployed app will launch in your br
 
 ### Notes
 
-- You may need to ensure you have the [Bundler and Minifier extension](https://docs.microsoft.com/en-us/aspnet/core/client-side/bundling-and-minification) installed, otherwise your CSS may not be minified and referenced correctly in the deployed version of the application. Alternately, you can modify `_Layout.cshtml` to use `app.css` instead of `app.css.min` in Production.
+- You may need to ensure you have the [Bundler and Minifier extension](https://docs.microsoft.com/en-us/aspnet/core/client-side/bundling-and-minification) installed in VS 2017, otherwise your CSS may not be minified and referenced correctly in the deployed version of the application. Alternately, you can modify `_Layout.cshtml` to use `app.css` instead of `app.css.min` in Production.
