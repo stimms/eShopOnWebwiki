@@ -25,6 +25,8 @@ Once the publish process has completed, your deployed app will launch in your br
 
 ![image](https://user-images.githubusercontent.com/782127/29100294-a869fa56-7c78-11e7-8b01-f0a0ad4e1c1f.png)
 
+[Learn more about Azure deployment options in the official documentation](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-deploy).
+
 ### Notes
 
 - You may need to ensure you have the [Bundler and Minifier extension](https://docs.microsoft.com/en-us/aspnet/core/client-side/bundling-and-minification) installed in VS 2017, otherwise your CSS may not be minified and referenced correctly in the deployed version of the application. Alternately, you can modify `_Layout.cshtml` to use `app.css` instead of `app.css.min` in Production.
