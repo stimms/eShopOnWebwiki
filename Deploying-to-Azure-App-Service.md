@@ -23,7 +23,7 @@ The Publish profile will be saved and the eShopOnWeb sample will be published to
 
 Once the publish process has completed, your deployed app will launch in your browser.
 
-![image](https://user-images.githubusercontent.com/782127/29100294-a869fa56-7c78-11e7-8b01-f0a0ad4e1c1f.png)
+![image](https://user-images.githubusercontent.com/782127/29151354-ae44c5c4-7d4e-11e7-9ea7-7db1ddc08994.png)
 
 [Learn more about Azure deployment options in the official documentation](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-deploy).
 
