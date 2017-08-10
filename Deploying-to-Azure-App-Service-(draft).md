@@ -1,6 +1,6 @@
 # Deploying to Azure App Service
 
-To deploy the sample to an Azure App Service, follow these step-by-step instructions.
+To deploy the eShopOnWeb sample to an Azure App Service, starting in the Azure Portal, follow these step-by-step instructions (or, [deploy to Azure directly from from Visual Studio 2017]()):
 
 1. Clone or download the eShopOnWeb sample to a folder on your local machine.
 
